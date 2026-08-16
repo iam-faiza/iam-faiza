@@ -35,23 +35,28 @@
 ### GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-faiza&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3&ring_color=FFFFFF" width="60%" alt="GitHub Stats">
+</p>
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=iam-faiza&show_icons=true&theme=react&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-faiza&layout=compact&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-faiza&theme=react&hide_border=true" />
 </p>
 
----
+--- --> -->
 
 ### Contribution 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-faiza&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="GitHub Contribution Graph" width="100%">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="600" />
 </p>
 
----
 
 ### Connect With Me
 
