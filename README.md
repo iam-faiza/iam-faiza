@@ -2,10 +2,6 @@
 <h3 align="center">Frontend Web Developer | WordPress Developer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/profile-hover.svg" alt="Profile" width="220" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Building+clean%2C+functional+UIs;Turning+ideas+into+code;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
