@@ -24,15 +24,13 @@
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/tech-marquee.svg" alt="Tech stack scrolling banner" width="900" />
 </p>
 
-> This SVG genuinely auto-scrolls (it has its own built-in animation), unlike marquee which GitHub blocks. You need to commit `tech-marquee.svg` to your `iam-faiza` repo root for it to load — see the note below.
-
 ---
 
 ### Featured Projects
 
 - **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
 - **[Strawberry / Matcha Chess](https://github.com/iam-faiza/Chess.git)** — Full-featured vanilla JS chess game with legal move highlighting, castling, en passant, pawn promotion, and custom theme switching
-- **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)**
+- **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)** _ Full-featured Js unlimited rock/paper/scissors game with user vs comp.
 
 ---
 
@@ -55,8 +53,6 @@
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="600" />
 </p>
 
-> This won't render until the snake workflow (see setup steps) is added and run once in your `iam-faiza` repo.
-
 ---
 
 ### Connect With Me
@@ -72,4 +68,4 @@
 
 ---
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — but I'll explain mine anyway.</i></p><h1 align="center">Hi, 
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — but I'll explain mine anyway.</i></p> 
