@@ -51,15 +51,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=react&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iam-faizamy&show_icons=true&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-faizamy&layout=compact&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-faizamy&theme=react&hide_border=true" />
 </p>
-
-> ⚠️ Replace `YOUR-USERNAME` in the image URLs above with your actual GitHub username, or the stat cards won't load.
 
 ---
 
