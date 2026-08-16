@@ -26,7 +26,8 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-faiza&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3&ring_color=FFFFFF" width="60%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-faiza&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3&ring_color=FFFFFF" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-faiza&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3" width="48%" alt="Top Languages">
 </p>
 
 ### Contribution
