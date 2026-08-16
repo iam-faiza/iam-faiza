@@ -24,8 +24,6 @@
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/tech-marquee.svg" alt="Tech stack scrolling banner" width="900" />
 </p>
 
-> This SVG genuinely auto-scrolls (it has its own built-in animation), unlike marquee which GitHub blocks. You need to commit `tech-marquee.svg` to your `iam-faiza` repo root for it to load — see the note below.
-
 ---
 
 ### Featured Projects
