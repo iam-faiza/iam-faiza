@@ -18,24 +18,14 @@
 </p>
 
 ### Featured Projects
-<p align="center">
-  <a href="https://github.com/iam-faiza/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-faiza&repo=Weather-App&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" />
-  </a>
-  <a href="https://github.com/iam-faiza/Chess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-faiza&repo=Chess&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/iam-faiza/Rock-Paper-Scissors-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3" />
-  </a>
-</p>
+- **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
+- **[Strawberry / Matcha Chess](https://github.com/iam-faiza/Chess.git)** — Full-featured vanilla JS chess game with legal move highlighting, castling, en passant, pawn promotion, and custom theme switching
+- **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)** — Full-functional Rock/Paper/Scissors game played along user/comp
+
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-faiza&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3&ring_color=FFFFFF" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-faiza&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=C3C3C3" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-faiza&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=C3C3C3&ring_color=FFFFFF" width="60%" alt="GitHub Stats">
 </p>
 
 ### Contribution
