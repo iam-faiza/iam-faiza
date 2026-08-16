@@ -2,6 +2,10 @@
 <h3 align="center">Frontend Web Developer | WordPress Developer</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/profile-hover.svg" alt="Profile" width="220" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Building+clean%2C+functional+UIs;Turning+ideas+into+code;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
@@ -14,23 +18,21 @@
 - Currently leveling up in **React**, API integration, and backend with **Node.js/Express**
 - Recently switched to **Linux** as my daily driver
 - Actively looking for **entry-level / internship** opportunities in web development
-- Fun fact: I build full game logic (chess, tic-tac-toe) in vanilla JS just for the challenge
 
 ---
 
-### Tech Stack
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/tech-marquee.svg" alt="Tech stack scrolling banner" width="900" />
 </p>
-
 ---
 
 ### Featured Projects
 
 - **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
 - **[Strawberry / Matcha Chess](https://github.com/iam-faiza/Chess.git)** — Full-featured vanilla JS chess game with legal move highlighting, castling, en passant, pawn promotion, and custom theme switching
-- **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)** _ Full-featured Js unlimited rock/paper/scissors game with user vs comp.
+- **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)**
 
 ---
 
@@ -47,7 +49,7 @@
 
 ---
 
-### Contribution Snake
+### Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="600" />
@@ -68,4 +70,4 @@
 
 ---
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — but I'll explain mine anyway.</i></p> 
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." — but I'll explain mine anyway.</i></p>
