@@ -9,12 +9,12 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student at **University of Gujrat** (Batch 2025–2029)
-- 💻 Focused on **Frontend Web Development** — HTML, CSS, JavaScript
-- 🌱 Currently leveling up in **React**, API integration, and backend with **Node.js/Express**
-- 🐧 Recently switched to **Linux (Ubuntu)** as my daily driver
-- 🔍 Actively looking for **entry-level / internship** opportunities in web development
-- ⚡ Fun fact: I build full game logic (chess, tic-tac-toe) in vanilla JS just for the challenge
+- Computer Science student at **University of Gujrat** (Batch 2025–2029)
+- Focused on **Frontend Web Development** — HTML, CSS, JavaScript
+- Currently leveling up in **React**, API integration, and backend with **Node.js/Express**
+- Recently switched to **Linux (Ubuntu)** as my daily driver
+- Actively looking for **entry-level / internship** opportunities in web development
+- Fun fact: I build full game logic (chess, tic-tac-toe) in vanilla JS just for the challenge
 
 ---
 
@@ -39,12 +39,9 @@
 
 ### 📌 Featured Projects
 
-- 🎨 **[Strawberry / Matcha Chess](#)** — Full-featured vanilla JS chess game with legal move highlighting, castling, en passant, pawn promotion, and custom theme switching
-- ⛅ **[Weather App](#)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
-- 🧘 **[Yoga Studio Site](#)** — Static site built with CSS Grid and the HTML Popover API for the nav
-- ✊✋✌️ **Rock Paper Scissors** & 🖼️ **Image Gallery** — Practice projects with filtering and lightbox functionality
-
-> Replace the `#` links above with your actual repo URLs once you paste this in.
+- ⛅ **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
+- 🎨 **[Strawberry / Matcha Chess](https://github.com/iam-faiza/Chess.git)** — Full-featured vanilla JS chess game with legal move highlighting, castling, en passant, pawn promotion, and custom theme switching
+- ✊✋✌️ **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)**
 
 ---
 
