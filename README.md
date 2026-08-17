@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Faiza Batool</h1>
+![Matrix](https://profilekit.vercel.app/api/matrix?text=Hi%21+I+am+Faiza+Batool&density=2&speed=1&seed=45&width=800&height=150&theme=dark&border_radius=none&font=inter&hide_border=true)
 <h3 align="center">Frontend Web Developer | WordPress Developer</h3>
 
 <p align="center">
