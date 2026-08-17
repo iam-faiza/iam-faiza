@@ -17,16 +17,14 @@
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/tech-marquee.svg" alt="Tech stack scrolling banner" width="900" />
 </p>
 
+### Contributions shooter
+![My GitHub Game](game.gif)
+
 ### Featured Projects
 - **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
 - **[Strawberry / Matcha Chess](https://github.com/iam-faiza/Chess.git)** — Full-featured vanilla JS chess game with legal move highlighting, castling, en passant, pawn promotion, and custom theme switching
 - **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)** — Full-functional Rock/Paper/Scissors game played along user/comp
-
-
-### Contribution Graph
-![My GitHub Game](game.gif)
-
-
+- 
 ### Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/faizabatool---" target="_blank">
