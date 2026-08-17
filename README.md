@@ -24,7 +24,7 @@
 
 
 ### Contribution Graph
-![](./profile-3d-contrib/profile-gitblock-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### Connect With Me
 <p align="left">
