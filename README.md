@@ -1,4 +1,4 @@
-![Matrix](https://profilekit.vercel.app/api/matrix?text=Hi%21+I+am+Faiza+Batool&density=2&speed=1&seed=45&width=1000&height=150&theme=dark&border_radius=none&font=inter&hide_border=true)
+![Matrix](https://profilekit.vercel.app/api/matrix?text=Initializing+developer+mode...&density=1&speed=2&seed=42&width=1000&height=150)
 <h3 align="center">Frontend Web Developer | WordPress Developer</h3>
 
 <p align="center">
