@@ -23,16 +23,8 @@
 - **[Rock Paper Scissors](https://github.com/iam-faiza/Rock-Paper-Scissors-Game.git)** — Full-functional Rock/Paper/Scissors game played along user/comp
 
 
-### GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iam-faiza&show_icons=true&theme=react&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-faiza&layout=compact&theme=react&hide_border=true" />
-</p>
-
-### Contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" width="800" />
-</p>
+### Contribution Graph
+![](./profile-3d-contrib/profile-gitblock-animate.svg)
 
 ### Connect With Me
 <p align="left">
