@@ -24,7 +24,7 @@
 
 
 ### Contribution Graph
-![](./profile-3d-contrib/profile-night-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ### Connect With Me
 <p align="left">
