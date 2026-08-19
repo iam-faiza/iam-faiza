@@ -1,9 +1,32 @@
-![Matrix](https://profilekit.vercel.app/api/matrix?text=Initializing+developer+mode...&density=1&speed=2&seed=42&width=1000&height=150)
+<h1 align="center">Hi! I'm Faiza Batool</h1>
 <h3 align="center">Frontend Web Developer | WordPress Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Building+clean%2C+functional+UIs;Turning+ideas+into+code;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
+
+
+<table>
+  <tr>
+    <td width="70%" valign="center">
+
+### About Me
+
+- Computer Science student at **University of Gujrat** (Batch 2025–2029)
+- Focused on **Frontend Web Development** — HTML, CSS, JavaScript
+- Currently leveling up in **React**, API integration, and backend with **Node.js/Express**
+- Recently switched to **Linux** as my daily driver
+- Actively looking for **entry-level / internship** opportunities in web development
+
+    </td>
+
+    <td width="30%" align="center" valign="center">
+
+![Radar](https://profilekit.vercel.app/api/radar?blips=8&speed=5&width=200&height=150&hide_border=true)
+
+    </td>
+  </tr>
+</table>
 
 ### About Me
 - Computer Science student at **University of Gujrat** (Batch 2025–2029)
@@ -19,6 +42,8 @@
 
 ### Contributions shooter
 ![My GitHub Game](game.gif)
+
+![Stats](https://profilekit.vercel.app/api/stats?theme=dark_dimmed&layout=compact&hide_border=true&hide_bar=true&username=iam-faiza)
 
 ### Featured Projects
 - **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
