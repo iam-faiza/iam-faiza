@@ -7,18 +7,6 @@
 
 
 ### About Me
-
-<img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/radar.svg" align="right" width="180" />
-
-- Computer Science student at **University of Gujrat** (Batch 2025–2029)
-- Focused on **Frontend Web Development** — HTML, CSS, JavaScript
-- Currently leveling up in **React**, API integration, and backend with **Node.js/Express**
-- Recently switched to **Linux** as my daily driver
-- Actively looking for **entry-level / internship** opportunities in web development
-
-<br clear="right"/>
-
-### About Me
 - Computer Science student at **University of Gujrat** (Batch 2025–2029)
 - Focused on **Frontend Web Development** — HTML, CSS, JavaScript
 - Currently leveling up in **React**, API integration, and backend with **Node.js/Express**
@@ -33,7 +21,9 @@
 ### Contributions shooter
 ![My GitHub Game](game.gif)
 
-![Stats](https://profilekit.vercel.app/api/stats?theme=dark_dimmed&layout=compact&hide_border=true&hide_bar=true&username=iam-faiza)
+### GitHub Stat's
+[![GitHub Streak](https://streak-stats.demolab.com?user=iam-faiza&theme=transparent&hide_border=true&timezone=pakistan&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ### Featured Projects
 - **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
