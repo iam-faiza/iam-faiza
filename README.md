@@ -6,9 +6,11 @@
 </p>
 
 
-<table border="0">
-  <tr>
-    <td width="70%" valign="center">
+<div align="left">
+
+<div style="display: flex; align-items: center;">
+
+<div style="width: 75%;">
 
 ### About Me
 
@@ -18,16 +20,17 @@
 - Recently switched to **Linux** as my daily driver
 - Actively looking for **entry-level / internship** opportunities in web development
 
-    </td>
+</div>
 
-    <td width="30%" align="center" valign="center">
+<div style="width: 25%; text-align: center;">
 
-<img src="https://profilekit.vercel.app/api/radar?blips=8&speed=5&width=250&height=180&hide_border=true" width="250">
+<img src="https://profilekit.vercel.app/api/radar?blips=8&speed=5&width=180&height=180&hide_border=true" width="180">
 
-    </td>
-  </tr>
-</table>
+</div>
 
+</div>
+
+</div>
 ### About Me
 - Computer Science student at **University of Gujrat** (Batch 2025–2029)
 - Focused on **Frontend Web Development** — HTML, CSS, JavaScript
