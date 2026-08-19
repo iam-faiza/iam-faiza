@@ -22,8 +22,7 @@
 ![My GitHub Game](game.gif)
 
 ### GitHub Stat's
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam-faiza&theme=transparent&hide_border=true&timezone=pakistan&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iam-faiza&theme=transparent&hide_border=true&timezone=pakistan&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ### Featured Projects
 - **[Weather App](https://github.com/iam-faiza/Weather-App.git)** — Dark-themed weather dashboard using the Open-Meteo API with a 7-day SVG forecast chart and hourly navigation
