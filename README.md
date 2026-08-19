@@ -5,7 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Building+clean%2C+functional+UIs;Turning+ideas+into+code;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
-![Terminal](https://profilekit.vercel.app/api/terminal?commands=Computer+Science+student+at+University+of+Gujrat%2C+Focused+on+Frontend+Web+Development+%E2%80%94+HTML%7CCSS%7C+JavaScript%2C+Currently+leveling+up+in+React%7C+API+integration+and+backend+with+Node.js%7CExpress%2C+Also+work+with+WordPress+and+WooCommerce+%E2%80%94+theme+customization%7C+page+building+and+e-commerce+setup&prompt=%24&window_title=About+Me&width=900&speed=30)
+
+<p align="center">
+  <img src="https://profilekit.vercel.app/api/terminal?commands=Computer+Science+student+at+University+of+Gujrat%2C+Focused+on+Frontend+Web+Development+%E2%80%94+HTML%7CCSS%7C+JavaScript%2C+Currently+leveling+up+in+React%7C+API+integration+and+backend+with+Node.js%7CExpress%2C+Also+work+with+WordPress+and+WooCommerce+%E2%80%94+theme+customization%7C+page+building+and+e-commerce+setup&prompt=%24&window_title=About+Me&width=900&speed=30" />
+</p>
 
 ### Tech Stack & Tools
 <p align="center">
@@ -34,4 +37,6 @@
 </p>
 
 ---
-![Quote](https://profilekit.vercel.app/api/quote?hide_bar=true&daily=true)
+<p align="center">
+  <img src="https://profilekit.vercel.app/api/quote?hide_bar=true&daily=true" />
+</p>
