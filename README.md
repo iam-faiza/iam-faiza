@@ -21,8 +21,12 @@
 
 ### <h3> GitHub Stat's </h3>
 <p align="center">
+  <p align="left"> 
   <img src="https://profilekit.vercel.app/api/stats?username=iam-faiza&layout=default&hide_border=true&hide_bar=true" />
+  </p>
+  <p align= "right"> 
   <img src="https://profilekit.vercel.app/api/languages?username=iam-faiza&langs_count=6&hide_bar=true&hide_border=true" />
+  </p>
 </p>
 
 ### <h3>Featured Projects</h3>
