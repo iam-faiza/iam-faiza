@@ -19,14 +19,14 @@
 ### <h3> Contribution Shooter </h3>
 ![My GitHub Game](game.gif)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/floating-particles.svg" width="900" height="40" />
+</p>
+
 ### <h3> GitHub Stat's </h3>
 <p align="center">
-  <p align="left"> 
-  <img src="https://profilekit.vercel.app/api/stats?username=iam-faiza&layout=default&hide_border=true&hide_bar=true" />
-  </p>
-  <p align= "right"> 
-  <img src="https://profilekit.vercel.app/api/languages?username=iam-faiza&langs_count=6&hide_bar=true&hide_border=true" />
-  </p>
+  <img src="https://profilekit.vercel.app/api/stats?username=iam-faiza&layout=default&hide_border=true&hide_bar=true" width="400" />
+  <img src="https://profilekit.vercel.app/api/languages?username=iam-faiza&langs_count=6&hide_bar=true&hide_border=true" width="400" />
 </p>
 
 ### <h3>Featured Projects</h3>
