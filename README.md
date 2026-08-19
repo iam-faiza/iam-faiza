@@ -6,29 +6,17 @@
 </p>
 
 
-<table>
-<tr>
-<td width="80%" valign="top">
+### About Me
 
-<h2>About Me</h2>
+<img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/radar.svg" align="right" width="180" />
 
-<ul>
-<li>Computer Science student at <strong>University of Gujrat</strong> (Batch 2025–2029)</li>
-<li>Focused on <strong>Frontend Web Development</strong> — HTML, CSS, JavaScript</li>
-<li>Currently leveling up in <strong>React</strong>, API integration, and backend with <strong>Node.js/Express</strong></li>
-<li>Recently switched to <strong>Linux</strong> as my daily driver</li>
-<li>Actively looking for <strong>entry-level / internship</strong> opportunities in web development</li>
-</ul>
+- Computer Science student at **University of Gujrat** (Batch 2025–2029)
+- Focused on **Frontend Web Development** — HTML, CSS, JavaScript
+- Currently leveling up in **React**, API integration, and backend with **Node.js/Express**
+- Recently switched to **Linux** as my daily driver
+- Actively looking for **entry-level / internship** opportunities in web development
 
-</td>
-
-<td width="20%" align="center" valign="middle">
-
-<img src="https://profilekit.vercel.app/api/radar?blips=8&speed=5&width=180&height=180&hide_border=true" width="180">
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ### About Me
 - Computer Science student at **University of Gujrat** (Batch 2025–2029)
