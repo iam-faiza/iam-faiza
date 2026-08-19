@@ -43,6 +43,4 @@
 <p align="center">
   <img src="https://profilekit.vercel.app/api/quote?hide_bar=true&daily=true&hide_border=true" />
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4d4d4d,100:ffffff&height=100&section=footer" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:5c5c5c&height=100&section=footer" width="100%" />
