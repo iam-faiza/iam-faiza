@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://profilekit.vercel.app/api/hero?name=Hello%2C+World&width=1200&height=150&bg=particles&align=center&color=26a269" />
+  <img src="https://profilekit.vercel.app/api/hero?name=Hello%2C+World&width=1200&hide_border=true&bg=grid&align=center&height=150" />
 </p>
 
 <p align="center">
@@ -19,25 +19,21 @@
 ![My GitHub Game](game.gif)
 
 ### Featured Projects
-<p align="left">
-  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Weather-App&hide_bar=true" />
-</p>
-<p align="right">
-  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Chess&hide_bar=true" />
-</p>
-<p align="left">
-  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_bar=true" />
-</p>  
-<p align="right">
-  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=otp-verification-system&hide_bar=true" />
+<p align="center">
+  <img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=Weather-App&hide_bar=true" />
+  <img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=Chess&hide_bar=true" />
+  <img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_bar=true" />
+  <img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=otp-verification-system&hide_bar=true" />
 </p>
 
 ### Connect With Me
 <p align="left">
-  <img src="https://profilekit.vercel.app/api/social?linkedin=+faizabatool---&email=faizabatool12862%40gmail.com&layout=default&hide_border=true&hide_bar=true&github=iam-faiza" />
+  <a href="https://github.com/iam-faiza" target="_blank"><img src="https://profilekit.vercel.app/api/social?github=iam-faiza&hide_bar=true" /></a>
+  <a href="https://www.linkedin.com/in/faizabatool---" target="_blank"><img src="https://profilekit.vercel.app/api/social?hide_bar=true&linkedin=faizabatool---" /></a>
+  <a href="mailto:faizabatool12862@gmail.com"><img src="https://profilekit.vercel.app/api/social?hide_bar=true&email=faizabatool12862%40gmail.com" /></a>
 </p>
 
 ---
 <p align="center">
-  <img src="[https://profilekit.vercel.app/api/quote?hide_bar=true&daily=true](https://profilekit.vercel.app/api/quote?hide_bar=true&daily=true&hide_border=true)" />
+  <img src="https://profilekit.vercel.app/api/quote?hide_bar=true&daily=true&hide_border=true" />
 </p>
