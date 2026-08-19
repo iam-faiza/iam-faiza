@@ -6,7 +6,7 @@
 </p>
 
 
-<table>
+<table border="0">
   <tr>
     <td width="70%" valign="center">
 
@@ -22,7 +22,7 @@
 
     <td width="30%" align="center" valign="center">
 
-![Radar](https://profilekit.vercel.app/api/radar?blips=8&speed=5&width=200&height=150&hide_border=true)
+<img src="https://profilekit.vercel.app/api/radar?blips=8&speed=5&width=250&height=180&hide_border=true" width="250">
 
     </td>
   </tr>
