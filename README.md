@@ -19,11 +19,17 @@
 ![My GitHub Game](game.gif)
 
 ### Featured Projects
-<p align="center">
-  <img src="https://profilekit.vercel.app/api/pin?card_width=200&username=iam-faiza&repo=Weather-App&hide_bar=true" />
-  <img src="https://profilekit.vercel.app/api/pin?card_width=200&username=iam-faiza&repo=Chess&hide_bar=true" />
-  <img src="https://profilekit.vercel.app/api/pin?card_width=200&username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_bar=true" />
-  <img src="https://profilekit.vercel.app/api/pin?card_width=200&username=iam-faiza&repo=otp-verification-system&hide_bar=true" />
+<p align="left">
+  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Weather-App&hide_bar=true" />
+</p>
+<p align="right">
+  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Chess&hide_bar=true" />
+</p>
+<p align="left">
+  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_bar=true" />
+</p>  
+<p align="right">
+  <img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=otp-verification-system&hide_bar=true" />
 </p>
 
 ### Connect With Me
