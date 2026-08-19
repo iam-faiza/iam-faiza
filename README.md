@@ -16,10 +16,14 @@
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/tech-marquee.svg" alt="Tech stack scrolling banner" width="900" />
 </p>
 
-
 ### <h3> Contribution Shooter </h3>
 ![My GitHub Game](game.gif)
 
+### <h3> GitHub Stat's </h3>
+<p align="center">
+  <img src="https://profilekit.vercel.app/api/stats?username=iam-faiza&layout=default&hide_border=true&hide_bar=true" />
+  <img src="https://profilekit.vercel.app/api/languages?username=iam-faiza&langs_count=6&hide_bar=true&hide_border=true" />
+</p>
 
 ### <h3>Featured Projects</h3>
 <p align="center">
