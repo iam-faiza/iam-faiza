@@ -20,12 +20,12 @@
 
 ### Featured Projects
 <p align="center">
-  <a href="https://github.com/iam-faiza/Weather-App" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=Weather-App&hide_bar=true" /></a>
-  <a href="https://github.com/iam-faiza/Chess" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=Chess&hide_bar=true" /></a>
+  <a href="https://github.com/iam-faiza/Weather-App" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Weather-App&hide_bar=true" /></a>
+  <a href="https://github.com/iam-faiza/Chess" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Chess&hide_bar=true" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/iam-faiza/Rock-Paper-Scissors-Game" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_bar=true" /></a>
-  <a href="https://github.com/iam-faiza/otp-verification-system" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=500&username=iam-faiza&repo=otp-verification-system&hide_bar=true" /></a>
+  <a href="https://github.com/iam-faiza/Rock-Paper-Scissors-Game" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_bar=true" /></a>
+  <a href="https://github.com/iam-faiza/otp-verification-system" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=otp-verification-system&hide_bar=true" /></a>
 </p>
 
 ### Connect With Me
