@@ -10,13 +10,16 @@
   <img src="https://profilekit.vercel.app/api/terminal?commands=Computer+Science+student+at+University+of+Gujrat%2C+Focused+on+Frontend+Web+Development+%E2%80%94+HTML%7CCSS%7C+JavaScript%2C+Currently+leveling+up+in+React%7C+API+integration+and+backend+with+Node.js%7CExpress%2C+Also+work+with+WordPress+and+WooCommerce+%E2%80%94+theme+customization%7C+page+building+and+e-commerce+setup&prompt=%24&window_title=About+Me&width=900&speed=30" />
 </p>
 
+
 ### <h3> Tech Stack & Tools </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/iam-faiza/iam-faiza/main/tech-marquee.svg" alt="Tech stack scrolling banner" width="900" />
 </p>
 
+
 ### <h3> Contribution Shooter </h3>
 ![My GitHub Game](game.gif)
+
 
 ### <h3>Featured Projects</h3>
 <p align="center">
@@ -27,6 +30,7 @@
   <a href="https://github.com/iam-faiza/Rock-Paper-Scissors-Game" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=Rock-Paper-Scissors-Game&hide_bar=true" /></a>
   <a href="https://github.com/iam-faiza/otp-verification-system" target="_blank"><img src="https://profilekit.vercel.app/api/pin?card_width=400&username=iam-faiza&repo=otp-verification-system&hide_bar=true" /></a>
 </p>
+
 
 ### <h3>Connect with me</h3>
 <p align="left">
@@ -39,3 +43,5 @@
 <p align="center">
   <img src="https://profilekit.vercel.app/api/quote?hide_bar=true&daily=true&hide_border=true" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:5c5c5c&height=100&section=footer" width="100%" />
